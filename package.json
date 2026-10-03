@@ -60,7 +60,7 @@
     "eslint-plugin-unicorn": "~21.0.0",
     "express": "~4.17.1",
     "glob": "~7.1.6",
-    "markdown-it": "~11.0.0",
+    "markdown-it": "14.3.1",
     "markdown-it-anchor": "~5.3.0",
     "markdownlint-cli": "~0.23.1",
     "mocha": "~8.1.3",
